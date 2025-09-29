@@ -1,5 +1,5 @@
 # Product Customer and Revenue Analysis
-This project analyzes business data using MySQL, covering customer behavior (top customers, average order value, high-value customers), employee performance (resolved support tickets), product insights (never-ordered items, average category prices), and financial metrics (total revenue) to support data-driven decisions.
+Menganalisis data bisnis menggunakan MySQL, mencakup perilaku pelanggan (pelanggan utama, rata-rata nilai pesanan, pelanggan bernilai tinggi), kinerja karyawan (tiket dukungan yang terselesaikan), insight produk (produk yang belum pernah dipesan, harga rata-rata per kategori), serta metrik finansial (total pendapatan) untuk mendukung pengambilan keputusan berbasis data.
 
 # Case Study
 1. Top 3 Customers Berdasarkan Jumlah Pesanan
@@ -64,3 +64,21 @@ This project analyzes business data using MySQL, covering customer behavior (top
    <p align="center">
      <img src="https://github.com/user-attachments/assets/1a92a2ee-5ddd-4884-8b94-337afc729044">
    </p>
+   
+# Insight
+- Top 3 Customers: Tiga pelanggan utama memberikan kontribusi terbesar terhadap jumlah pesanan, menunjukkan adanya konsentrasi transaksi pada pelanggan tertentu.
+
+- Average Order Value: Nilai rata-rata pesanan tiap pelanggan menunjukkan adanya variasi daya beli, membantu dalam segmentasi pelanggan.
+
+- Employee Performance: Karyawan dengan lebih dari 4 tiket support yang terselesaikan menandakan efektivitas tinggi dalam mendukung kepuasan pelanggan.
+
+- Never-Ordered Products: Ditemukan produk yang belum pernah dipesan, yang bisa menjadi indikasi kurangnya permintaan atau perlu strategi pemasaran lebih baik.
+
+- Total Revenue: Pendapatan total memberikan gambaran menyeluruh mengenai kinerja finansial perusahaan.
+
+- Average Price per Category: Perbedaan harga rata-rata tiap kategori menunjukkan positioning produk dan dapat menjadi dasar evaluasi strategi harga.
+
+- High-Value Customers: Terdapat pelanggan dengan total transaksi melebihi 1000, mengindikasikan loyalitas dan potensi untuk program khusus seperti VIP customer.
+  
+# Conclusion
+Analisis ini memberikan pandangan menyeluruh terkait pelanggan, produk, karyawan, dan performa finansial. Pelanggan utama serta high-value customers berperan penting dalam pendapatan, sementara analisis nilai pesanan rata-rata membantu memahami perilaku belanja. Dari sisi operasional, karyawan dengan performa tinggi berkontribusi pada kualitas layanan. Identifikasi produk yang tidak pernah dipesan membuka peluang evaluasi strategi produk dan pemasaran. Secara keseluruhan, insight ini dapat mendukung pengambilan keputusan berbasis data untuk meningkatkan penjualan, loyalitas pelanggan, efisiensi operasional, serta pertumbuhan pendapatan.
